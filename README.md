@@ -89,3 +89,10 @@ A test dictionary of size N is generated such that N is every number in the oute
 	2. Run every test and record the results.
 	3. Run every test 1000 times and record the results.
 
+# Results
+![Random Access](Results/RandomAccess.png)
+![Contains Key](Results/ContainsKey.png)
+
+# Conclusion
+Even though the tests are not exhaustive over all use cases it seems that Dictionaries are fatser than switch statements as a lookup. Which is surprising. 
+
