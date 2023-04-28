@@ -1,0 +1,145 @@
+ElementCount, TestDescription, StaticSeconds, DynamicSeconds
+1, Random Access Test, 0.006036, 0.0144712
+1, Random Access Test_ 1000 Runs., 4.95477, 9.9812661
+1, ContainsKey test 90% hit Test, 0.0061, 0.0096654
+1, ContainsKey test 90% hit Test_ 1000 Runs., 4.3904724, 10.3975305
+2, Random Access Test, 0.0187975, 0.0159992
+2, Random Access Test_ 1000 Runs., 10.6463531, 10.8491566
+2, ContainsKey test 90% hit Test, 0.0072737, 0.0104588
+2, ContainsKey test 90% hit Test_ 1000 Runs., 6.0615699, 12.3906678
+3, Random Access Test, 0.0185182, 0.0091085
+3, Random Access Test_ 1000 Runs., 17.9404518, 14.3413382
+3, ContainsKey test 90% hit Test, 0.0078992, 0.008434
+3, ContainsKey test 90% hit Test_ 1000 Runs., 6.2186846, 12.7869533
+4, Random Access Test, 0.0360759, 0.0096929
+4, Random Access Test_ 1000 Runs., 15.7214854, 11.303261
+4, ContainsKey test 90% hit Test, 0.0068394, 0.0055802
+4, ContainsKey test 90% hit Test_ 1000 Runs., 5.1436743, 10.4840668
+5, Random Access Test, 0.0276007, 0.0059878
+5, Random Access Test_ 1000 Runs., 18.1670101, 13.2350067
+5, ContainsKey test 90% hit Test, 0.0072566, 0.0070753
+5, ContainsKey test 90% hit Test_ 1000 Runs., 5.7419146, 11.5478411
+6, Random Access Test, 0.0205725, 0.0148907
+6, Random Access Test_ 1000 Runs., 16.1348912, 10.7858452
+6, ContainsKey test 90% hit Test, 0.004637, 0.005603
+6, ContainsKey test 90% hit Test_ 1000 Runs., 5.0620537, 9.9531508
+7, Random Access Test, 0.0318771, 0.0122869
+7, Random Access Test_ 1000 Runs., 13.5908401, 9.1942202
+7, ContainsKey test 90% hit Test, 0.0056382, 0.0057761
+7, ContainsKey test 90% hit Test_ 1000 Runs., 4.1628987, 9.338232
+8, Random Access Test, 0.0204015, 0.0054819
+8, Random Access Test_ 1000 Runs., 13.8392667, 8.277078
+8, ContainsKey test 90% hit Test, 0.0050973, 0.0089128
+8, ContainsKey test 90% hit Test_ 1000 Runs., 4.1589244, 8.0138547
+9, Random Access Test, 0.0187005, 0.0091969
+9, Random Access Test_ 1000 Runs., 13.9155746, 8.4943277
+9, ContainsKey test 90% hit Test, 0.0066893, 0.0100244
+9, ContainsKey test 90% hit Test_ 1000 Runs., 4.4209708, 8.1855528
+10, Random Access Test, 0.02263, 0.00748
+10, Random Access Test_ 1000 Runs., 15.8401965, 10.6456654
+10, ContainsKey test 90% hit Test, 0.0082204, 0.0107216
+10, ContainsKey test 90% hit Test_ 1000 Runs., 6.2277572, 11.711586
+20, Random Access Test, 0.0331545, 0.0090799
+20, Random Access Test_ 1000 Runs., 21.8530969, 14.6805546
+20, ContainsKey test 90% hit Test, 0.0112526, 0.0104877
+20, ContainsKey test 90% hit Test_ 1000 Runs., 7.0287329, 13.5067424
+30, Random Access Test, 0.0212513, 0.0099166
+30, Random Access Test_ 1000 Runs., 17.594546, 11.2811098
+30, ContainsKey test 90% hit Test, 0.0085054, 0.0155549
+30, ContainsKey test 90% hit Test_ 1000 Runs., 6.3637132, 12.3969249
+40, Random Access Test, 0.0276494, 0.0143085
+40, Random Access Test_ 1000 Runs., 19.6574143, 12.6818944
+40, ContainsKey test 90% hit Test, 0.0066605, 0.0066649
+40, ContainsKey test 90% hit Test_ 1000 Runs., 6.3992346, 12.0566588
+50, Random Access Test, 0.0326856, 0.0113604
+50, Random Access Test_ 1000 Runs., 17.1451867, 10.8515806
+50, ContainsKey test 90% hit Test, 0.0059401, 0.0091327
+50, ContainsKey test 90% hit Test_ 1000 Runs., 5.039998, 8.8786086
+60, Random Access Test, 0.022474, 0.0079531
+60, Random Access Test_ 1000 Runs., 14.6885828, 7.9613741
+60, ContainsKey test 90% hit Test, 0.0058296, 0.0097409
+60, ContainsKey test 90% hit Test_ 1000 Runs., 4.9090478, 9.1174254
+70, Random Access Test, 0.0227188, 0.0101029
+70, Random Access Test_ 1000 Runs., 14.7259622, 8.1278239
+70, ContainsKey test 90% hit Test, 0.0054836, 0.0097149
+70, ContainsKey test 90% hit Test_ 1000 Runs., 5.3400373, 9.4333585
+80, Random Access Test, 0.0227577, 0.005665
+80, Random Access Test_ 1000 Runs., 14.4140068, 8.0174475
+80, ContainsKey test 90% hit Test, 0.0079359, 0.0089315
+80, ContainsKey test 90% hit Test_ 1000 Runs., 4.8383696, 8.4846437
+90, Random Access Test, 0.019837, 0.0056803
+90, Random Access Test_ 1000 Runs., 14.5607548, 7.5793478
+90, ContainsKey test 90% hit Test, 0.0052462, 0.0064878
+90, ContainsKey test 90% hit Test_ 1000 Runs., 4.315808, 7.0636978
+100, Random Access Test, 0.0254393, 0.0175992
+100, Random Access Test_ 1000 Runs., 16.6991835, 10.6895912
+100, ContainsKey test 90% hit Test, 0.0099435, 0.0188032
+100, ContainsKey test 90% hit Test_ 1000 Runs., 6.2592886, 13.9117246
+200, Random Access Test, 0.0285277, 0.012071
+200, Random Access Test_ 1000 Runs., 22.5037326, 13.7635098
+200, ContainsKey test 90% hit Test, 0.0166307, 0.017212
+200, ContainsKey test 90% hit Test_ 1000 Runs., 7.391787, 13.8652728
+300, Random Access Test, 0.0321646, 0.0187539
+300, Random Access Test_ 1000 Runs., 19.2948088, 11.9311431
+300, ContainsKey test 90% hit Test, 0.0070676, 0.0220341
+300, ContainsKey test 90% hit Test_ 1000 Runs., 6.156751, 11.4607848
+400, Random Access Test, 0.0281636, 0.0121319
+400, Random Access Test_ 1000 Runs., 21.290008, 13.2600593
+400, ContainsKey test 90% hit Test, 0.0073648, 0.010746
+400, ContainsKey test 90% hit Test_ 1000 Runs., 6.5336064, 12.8150524
+500, Random Access Test, 0.028134, 0.0116542
+500, Random Access Test_ 1000 Runs., 19.53074, 10.9561414
+500, ContainsKey test 90% hit Test, 0.0061657, 0.011981
+500, ContainsKey test 90% hit Test_ 1000 Runs., 5.410594, 10.3223018
+600, Random Access Test, 0.0239721, 0.0068174
+600, Random Access Test_ 1000 Runs., 15.3720879, 7.9552969
+600, ContainsKey test 90% hit Test, 0.0058331, 0.0097021
+600, ContainsKey test 90% hit Test_ 1000 Runs., 5.2255057, 9.0961594
+700, Random Access Test, 0.0229399, 0.0111483
+700, Random Access Test_ 1000 Runs., 16.1465082, 8.0207987
+700, ContainsKey test 90% hit Test, 0.0092973, 0.0120273
+700, ContainsKey test 90% hit Test_ 1000 Runs., 5.2133216, 9.082211
+800, Random Access Test, 0.0258784, 0.0109802
+800, Random Access Test_ 1000 Runs., 16.1244949, 8.6392801
+800, ContainsKey test 90% hit Test, 0.0053634, 0.0067123
+800, ContainsKey test 90% hit Test_ 1000 Runs., 4.8586008, 8.8479682
+900, Random Access Test, 0.0228387, 0.0072698
+900, Random Access Test_ 1000 Runs., 15.7041842, 8.2057898
+900, ContainsKey test 90% hit Test, 0.005858, 0.0069937
+900, ContainsKey test 90% hit Test_ 1000 Runs., 5.1345724, 9.6458738
+1000, Random Access Test, 0.0376213, 0.0121371
+1000, Random Access Test_ 1000 Runs., 17.8402066, 11.0904553
+1000, ContainsKey test 90% hit Test, 0.0082479, 0.0171691
+1000, ContainsKey test 90% hit Test_ 1000 Runs., 6.1879615, 12.3746448
+2000, Random Access Test, 0.0318777, 0.0119772
+2000, Random Access Test_ 1000 Runs., 38.8110342, 16.6281043
+2000, ContainsKey test 90% hit Test, 0.0168264, 0.0190986
+2000, ContainsKey test 90% hit Test_ 1000 Runs., 6.8658142, 14.6758746
+3000, Random Access Test, 0.0278078, 0.0127293
+3000, Random Access Test_ 1000 Runs., 35.739719, 14.2482025
+3000, ContainsKey test 90% hit Test, 0.0149493, 0.0193728
+3000, ContainsKey test 90% hit Test_ 1000 Runs., 7.8182917, 17.0108342
+4000, Random Access Test, 0.047549, 0.0179576
+4000, Random Access Test_ 1000 Runs., 36.3423434, 13.8680577
+4000, ContainsKey test 90% hit Test, 0.0084002, 0.0091649
+4000, ContainsKey test 90% hit Test_ 1000 Runs., 5.8535973, 13.7242333
+5000, Random Access Test, 0.0309082, 0.0305697
+5000, Random Access Test_ 1000 Runs., 31.1059434, 10.3505155
+5000, ContainsKey test 90% hit Test, 0.0072165, 0.0090316
+5000, ContainsKey test 90% hit Test_ 1000 Runs., 5.2376767, 10.953804
+6000, Random Access Test, 0.0324212, 0.0135309
+6000, Random Access Test_ 1000 Runs., 32.8514829, 10.7612449
+6000, ContainsKey test 90% hit Test, 0.0071797, 0.0109782
+6000, ContainsKey test 90% hit Test_ 1000 Runs., 5.1421386, 11.2966358
+7000, Random Access Test, 0.0337618, 0.0125244
+7000, Random Access Test_ 1000 Runs., 33.5255044, 10.5120255
+7000, ContainsKey test 90% hit Test, 0.0054143, 0.010717
+7000, ContainsKey test 90% hit Test_ 1000 Runs., 4.9419521, 11.3388601
+8000, Random Access Test, 0.0378514, 0.0085316
+8000, Random Access Test_ 1000 Runs., 34.9163266, 11.3786638
+8000, ContainsKey test 90% hit Test, 0.0082046, 0.0122027
+8000, ContainsKey test 90% hit Test_ 1000 Runs., 4.8755747, 10.8453302
+9000, Random Access Test, 0.0346255, 0.0081569
+9000, Random Access Test_ 1000 Runs., 32.2033297, 7.5759629
+9000, ContainsKey test 90% hit Test, 0.0064465, 0.0087142
+9000, ContainsKey test 90% hit Test_ 1000 Runs., 4.6360996, 8.3265252
